@@ -81,9 +81,8 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
-/*Change .benefits to aside */
-.aside {
+/*Change. benefits to aside*/
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
