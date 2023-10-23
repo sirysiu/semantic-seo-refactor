@@ -7,3 +7,4 @@ In this challlenge the critera was to make changes with in the code to make sure
 ![Screenshot of Semantic SEO Refactor](./assets/screenshots/screenshot1.png)
 ![Screenshot of Semantic SEO ReFactor](./assets/screenshots/screenshot2.png)
 ## Live URL 
+[Live URL](https://sirysiu.github.io/semantic-seo-refactor/)
