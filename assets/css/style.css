@@ -46,6 +46,13 @@ a {
     text-decoration: none;
 }
 
+/* adding hover state to links*/
+
+a:hover {
+    text-decoration: underline;
+   
+    
+}
 p {
     font-size: 16px;
 }
